@@ -1,0 +1,3 @@
+Dim serie As String = TextBox1.Text
+Dim datos() As String
+datos()= Split(serie, ",")
